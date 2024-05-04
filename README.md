@@ -123,5 +123,5 @@
 ## Regression Analysis
 - Regression analysis is a statistical technique used in data analytics to understand the relationship between a dependent variable (target) and one or more independent variables (features). It helps in predicting the value of the dependent variable based on the values of independent variables. image
 
-# Define and Describe the Roles of Artificial Intelligence in Data Analysis
+## Define and Describe the Roles of Artificial Intelligence in Data Analysis
 - Artificial intelligence (AI) in data analysis refers to the use of advanced computational techniques to process and analyze large and complex datasets. AI algorithms and technologies enable computers to mimic human-like intelligence, learning from data, recognizing patterns, making predictions, and generating insights without explicit programming.
