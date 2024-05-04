@@ -1,7 +1,7 @@
 # The Fundamentals of IT Specialist: Data Analytics Part 2
 
 
-# DATA ANALYTICS
+# Data Analytics
 - Data analytics can be divided into several different stages, each with its own objectives and analytical approaches. Here is a brief explanation of each stage:
 
 
@@ -88,14 +88,14 @@
 
 
 
-## ROOT CAUSES
+## Root Causes
 - Root causes are the fundamental factors or origins that lead to an event or issue. Identifying root causes is crucial for effectively addressing problems and preventing the recurrence of the same issues in the future.
 
 
-## DATA STORYTELLING
+## Data Storytelling
 - Data storytelling in data analytics is the process of presenting data analysis and insights in a narrative format using the Python programming language and its libraries. It involves steps such as data preparation, exploratory data analysis, visualization, as well as communicating the analysis results to stakeholders. The goal is to transform data analysis findings into a compelling story that is engaging and easily understood, thus providing valuable insights and supporting decision-making.
 
-## CORRELATION
+## Correlation
 - Correlation in data analysis is a statistical measure used to evaluate the relationship or dependency between two or more variables. It assesses the strength and direction of the relationship between these variables. In the context of data analysis, correlation aids in understanding patterns and interactions among the observed variables.
 
 - Correlation is expressed on a scale ranging from -1 to 1, where:
@@ -111,17 +111,17 @@
   - Correlation aids in data analysis by identifying hidden patterns, determining influential variables, and understanding how variables interact with each other.   - It is a crucial tool in understanding the data structure and making decisions based on the information obtained from the data.
 
 
-## ANOMALY
+## Anomaly
 - Events that exceed the threshold value are called extreme events. Modeling extreme events cannot be done with a normal distribution approach, but with a distribution that has a long tail (heavy tail). image
 
-## OUTLIER
+## Outlier
 - In statistics, an outlier is a data point that differs significantly from other observations. Outliers may be caused by variability in measurements, indicative of new data or may be the result of experimental error image
 
-## PAIRED T-TEST
+## Paired T-Test
 - T-tests are statistical tools used to compare the means of two groups. There are several types of t-tests, with the most common ones being: Independent T-Test: Used when you want to compare the means of two different groups independently. For example, you might want to know if there's a difference in test scores between male and female students. image
 
-## REGRESSION ANALYTICS
+## Regression Analysis
 - Regression analysis is a statistical technique used in data analytics to understand the relationship between a dependent variable (target) and one or more independent variables (features). It helps in predicting the value of the dependent variable based on the values of independent variables. image
 
-# DEFINE AND DESCRIBE THE ROLE ARTIFICIAL INTELLIGENCE (AI) IN DATA ANALYST
+# Define and Describe the Roles of Artificial Intelligence in Data Analysis
 - Artificial intelligence (AI) in data analysis refers to the use of advanced computational techniques to process and analyze large and complex datasets. AI algorithms and technologies enable computers to mimic human-like intelligence, learning from data, recognizing patterns, making predictions, and generating insights without explicit programming.
